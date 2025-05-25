@@ -20,3 +20,14 @@ A cross-platform AI image generation app using **Flutter** and **Hugging Face's 
 ### Prerequisites
 - Flutter SDK 3.0+
 - Hugging Face API key (free tier available)
+
+🤖 Tech Stack
+Frontend: Flutter 3.13
+AI API: Hugging Face Inference API
+State Management: Provider
+Styling: Material Design 3
+
+Dependencies:
+http for API calls
+flutter_dotenv for environment variables
+flutter_spinkit for loading animations
