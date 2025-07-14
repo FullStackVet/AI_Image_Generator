@@ -6,6 +6,14 @@
 
 A cross-platform AI image generation app using **Flutter** and **Hugging Face's Stable Diffusion XL** model. Transform text prompts into stunning visuals!
 
+## 🖼️ Sample Images
+![chef1](https://github.com/user-attachments/assets/dbed58a8-81da-4999-a7a3-e650c2ab8468)
+![forest1](https://github.com/user-attachments/assets/035df0a5-c641-428d-9e93-f6991faefa17)
+
+## 🎲 Sample Random Prompted Image and Text
+![randPrompt](https://github.com/user-attachments/assets/6288c1a1-2a16-4128-9eeb-9b0a1f167edd)
+
+
 ## ✨ Features
 
 - 🖼️ Generate high-quality images from text prompts
